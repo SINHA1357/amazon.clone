@@ -1,2 +1,3 @@
 # amazon.clone
-html.css
+It's a simple Amazon clone website by using
+html&css
